@@ -1,5 +1,5 @@
-# What is this?
-This project consists of examples of visualization in mathematical concepts. Matplotlib, a Python plotting library will be used extensively and source code will be written in Jupyter notebook.
+# About
+This project consists of examples of mathematics problem solving and also visualization in mathematical concepts.
 
 # Topics
 * [2D Random Walk](https://github.com/woo-chia-wei/the-art-of-pattern/blob/master/topics/2d-random-walk.ipynb) : A path where each steps is at the random decision (up, down, left, right) with equal probability 0.25.
